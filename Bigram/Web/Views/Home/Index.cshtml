@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Bigram Parsing";
+}
+
+<form enctype="multipart/form-data">
+    <input type="radio" name="method" value="file" checked /> file
+    <input type="radio" name="method" value="text" /> text
+
+    <input type="file" name="file" />
+    <textarea style="display: none !important;"></textarea>
+
+    <button type="button">Parse Bigrams</button>
+
+    <div class="error"></div>
+</form>
+
+<div class="chart">
+    <span class="min">0</span>
+    <span class="max"></span>
+
+    <div class="results"></div>
+</div>

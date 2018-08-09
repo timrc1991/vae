@@ -1,0 +1,11 @@
+C:\Bigram\Web\bin\Debug\netcoreapp2.0\Web.deps.json
+C:\Bigram\Web\bin\Debug\netcoreapp2.0\Web.runtimeconfig.json
+C:\Bigram\Web\bin\Debug\netcoreapp2.0\Web.runtimeconfig.dev.json
+C:\Bigram\Web\bin\Debug\netcoreapp2.0\Web.dll
+C:\Bigram\Web\bin\Debug\netcoreapp2.0\Web.pdb
+C:\Bigram\Web\obj\Debug\netcoreapp2.0\Web.csproj.CoreCompileInputs.cache
+C:\Bigram\Web\obj\Debug\netcoreapp2.0\Web.AssemblyInfoInputs.cache
+C:\Bigram\Web\obj\Debug\netcoreapp2.0\Web.AssemblyInfo.cs
+C:\Bigram\Web\obj\Debug\netcoreapp2.0\Web.dll
+C:\Bigram\Web\obj\Debug\netcoreapp2.0\Web.pdb
+C:\Bigram\Web\obj\Debug\netcoreapp2.0\Web.csprojAssemblyReference.cache
