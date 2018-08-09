@@ -107,7 +107,7 @@ namespace Test
         [Fact]
         public void TestGetNGramsLargeText()
         {
-            var text = new string('*', 5000);
+            var text = new string('a', 5000);
             Assert.True(_nGramHelper.GetNGrams(text, 1) != null);
 
             text = "word ";

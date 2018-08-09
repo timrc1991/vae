@@ -9,3 +9,14 @@ C:\Bigram\Web\obj\Debug\netcoreapp2.0\Web.AssemblyInfo.cs
 C:\Bigram\Web\obj\Debug\netcoreapp2.0\Web.dll
 C:\Bigram\Web\obj\Debug\netcoreapp2.0\Web.pdb
 C:\Bigram\Web\obj\Debug\netcoreapp2.0\Web.csprojAssemblyReference.cache
+C:\Users\tcarpent\Downloads\vae\vae-master\Bigram\Web\bin\Debug\netcoreapp2.0\Web.deps.json
+C:\Users\tcarpent\Downloads\vae\vae-master\Bigram\Web\bin\Debug\netcoreapp2.0\Web.runtimeconfig.json
+C:\Users\tcarpent\Downloads\vae\vae-master\Bigram\Web\bin\Debug\netcoreapp2.0\Web.runtimeconfig.dev.json
+C:\Users\tcarpent\Downloads\vae\vae-master\Bigram\Web\bin\Debug\netcoreapp2.0\Web.dll
+C:\Users\tcarpent\Downloads\vae\vae-master\Bigram\Web\bin\Debug\netcoreapp2.0\Web.pdb
+C:\Users\tcarpent\Downloads\vae\vae-master\Bigram\Web\obj\Debug\netcoreapp2.0\Web.csprojAssemblyReference.cache
+C:\Users\tcarpent\Downloads\vae\vae-master\Bigram\Web\obj\Debug\netcoreapp2.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\tcarpent\Downloads\vae\vae-master\Bigram\Web\obj\Debug\netcoreapp2.0\Web.AssemblyInfoInputs.cache
+C:\Users\tcarpent\Downloads\vae\vae-master\Bigram\Web\obj\Debug\netcoreapp2.0\Web.AssemblyInfo.cs
+C:\Users\tcarpent\Downloads\vae\vae-master\Bigram\Web\obj\Debug\netcoreapp2.0\Web.dll
+C:\Users\tcarpent\Downloads\vae\vae-master\Bigram\Web\obj\Debug\netcoreapp2.0\Web.pdb

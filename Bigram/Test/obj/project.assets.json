@@ -13794,11 +13794,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Bigram\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\tcarpent\\Downloads\\vae\\vae-master\\Bigram\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Bigram\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\tcarpent\\Downloads\\vae\\vae-master\\Bigram\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\tcarpent\\.nuget\\packages\\",
-      "outputPath": "C:\\Bigram\\Test\\obj\\",
+      "outputPath": "C:\\Users\\tcarpent\\Downloads\\vae\\vae-master\\Bigram\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13818,8 +13818,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Bigram\\Web\\Web.csproj": {
-              "projectPath": "C:\\Bigram\\Web\\Web.csproj"
+            "C:\\Users\\tcarpent\\Downloads\\vae\\vae-master\\Bigram\\Web\\Web.csproj": {
+              "projectPath": "C:\\Users\\tcarpent\\Downloads\\vae\\vae-master\\Bigram\\Web\\Web.csproj"
             }
           }
         }

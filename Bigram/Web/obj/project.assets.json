@@ -12669,11 +12669,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Bigram\\Web\\Web.csproj",
+      "projectUniqueName": "C:\\Users\\tcarpent\\Downloads\\vae\\vae-master\\Bigram\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "C:\\Bigram\\Web\\Web.csproj",
+      "projectPath": "C:\\Users\\tcarpent\\Downloads\\vae\\vae-master\\Bigram\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\tcarpent\\.nuget\\packages\\",
-      "outputPath": "C:\\Bigram\\Web\\obj\\",
+      "outputPath": "C:\\Users\\tcarpent\\Downloads\\vae\\vae-master\\Bigram\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
